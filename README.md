@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sumith 👋</h1>
-<h3 align="center">AI/ML & Data Science Engineer | Final-Year B.Tech (AI & Data Science)</h3>
+<h3 align="center">AI/ML & Data Science Engineer | B.Tech in AI & Data Science</h3>
 
 <p align="center">
 I build machine learning systems end-to-end — from data preprocessing and model training to explainability and deployment — and I'm increasingly focused on LLM agents and intelligent automation.
